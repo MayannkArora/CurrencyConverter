@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Currency Converter</string>
     <string name="result_euros">%1$.2f Euros</string>
+    <string name="hint">Enter Dollars</string>
+    <string name="resultText">Result</string>\
+    <string name="convertText">Convert</string>
 </resources>
